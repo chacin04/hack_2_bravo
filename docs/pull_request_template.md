@@ -6,7 +6,7 @@
 
 [ ] Cahrlie 
 
-[ ] Delta 
+[x] Delta 
 
 [ ] Echo 
 
